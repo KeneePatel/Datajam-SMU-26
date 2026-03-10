@@ -18,9 +18,9 @@ We combined multiple datasets from the **Nova Scotia Open Data Portal** and perf
 
 ## Visualization Preview
 
-![Healthcare Access Map](visuals/distance_map.png)
-![Hist Plot](visuals/distance_map.png)
-![ER Demand per 10k Residents vs Avg Dist Scatter Plot](visuals/distance_map.png)
+![Healthcare Access Map](visuals/distance_plot.png)
+![Hist Plot](visuals/hist_plot.png)
+![ER Demand per 10k Residents vs Avg Dist Scatter Plot](visuals/er_scatter_plot.png)
 
 ## Key Insight
 
